@@ -7,6 +7,10 @@ $(document).ready(function() {
     console.log("themnguoidung2");
   }
 
+  function xoanguoidung(){
+    console.log("xoa2");
+  }
+
   //Lấy giữ liệu từ localStorage khi load lại trang
   layLocalStorage();
 
