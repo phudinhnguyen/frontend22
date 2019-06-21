@@ -8,9 +8,8 @@ $(document).ready(function() {
   }
 
   function xoanguoidung(){
-    console.log("xoa1");
+    console.log("xoanguoidung2");
   }
-
 
   //Lấy giữ liệu từ localStorage khi load lại trang
   layLocalStorage();
